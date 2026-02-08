@@ -3,8 +3,11 @@ This system calculates and displays the shortest path between two points on a ma
 
 # How to run
 -Build Backend (Originally built in IntelliJ IDEA Community Edition 2022.2.3)
+
 -Run both Main and TCP Server
+
 -In Terminal, navigate to UI folder. Run: npm install AND npm run develop
+
 -Select 2 points in the zone of Eckernförde (That´s where the json file´s Graph is), choose any of the 3 external API options, or one of the 2, internal algorithms
 
 ### Components: 
